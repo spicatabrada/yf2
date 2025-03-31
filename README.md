@@ -2,10 +2,10 @@ https://www.youtube.com/watch?v=SxIwqdedomg
 https://www.qmr.ai/yfinance-library-the-definitive-guide/
 https://x.com/pedma7/status/1772961948654546966?s=46&t=6cbcFP0QTSt4SoCj2xfSeA
 
-Launch jupyter-notebook by:
+Launch jupyter-notebook by:  
 `C:\Users\pgonda\OneDrive - Teleflex Incorporated\15 Coding\yf2\yf.bat`
 
-Open jupyter-notebook in a web-browser:
+Open jupyter-notebook in a web-browser:  
 http://localhost:8888/tree?token=2adf12cc3d3c23b5241df8359f53e8b180f61055874e6698
 
 ### git commands
