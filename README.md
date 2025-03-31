@@ -9,8 +9,9 @@ git commit -am "<description>"
 ```
 
 ### Create .venv
-* `python -m vevnv .venv`
-* `pip install jupyter`
+* `python -m venv .venv`
+* `.\.venv\Scripts\activate`
+* `pip3 install jupyter`
     * maybe also: `pip install jupyterlab`
 * `pip install yfinance`
 
