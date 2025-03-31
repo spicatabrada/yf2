@@ -19,7 +19,7 @@ git commit -am "<description>"
 * `python -m venv .venv`
 * `.\.venv\Scripts\activate`
 * `pip3 install jupyterlab`
-* `pip3 install jupyter` ... this install jupyter-notebook.exe
+* `pip3 install jupyter` ... this installs a jupyter-notebook.exe
 * `pip3 install yfinance`
 
 ### Jupyter Lab Script
