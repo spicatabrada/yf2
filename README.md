@@ -15,9 +15,10 @@ git commit -m "<description>"
 git commit -am "<description>"
 ```
 
-### Create .venv
-* `python -m venv .venv`
-* `.\.venv\Scripts\activate`
+##.venv  
+`python -m venv .venv`  
+`source .venv/bin/activate`
+
 * `pip3 install jupyterlab`
 * `pip3 install jupyter` ... this installs a jupyter-notebook.exe
 * `pip3 install yfinance`
