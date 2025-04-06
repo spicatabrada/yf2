@@ -1,4 +1,3 @@
-__pycache__/
 .venv/
 ssh_key.priv
 ssh_key.pub
